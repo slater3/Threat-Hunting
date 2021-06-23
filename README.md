@@ -1,2 +1,2 @@
 # Threat-Hunting
-Non confidential or sensitive information will be stored here , only known IOCs
+Non confidential or sensitive information is to be stored here , only known IOCs
